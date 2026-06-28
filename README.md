@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**alisson-mendes-dev/alisson-mendes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Alisson Mendes**.
 
-Here are some ideas to get you started:
+Sou um desenvolvedor Backend em formação, apaixonado por entender como as tecnologias funcionam internamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estudando
+
+- Ruby
+- Sinatra
+- Banco de Dados
+- REST APIs
+- Git
+- Docker
+
+---
+
+## 💻 Projetos
+
+### progressoRubyBlog
+
+Blog desenvolvido utilizando Ruby + Sinatra + MongoDB.
+
+## 📚 Objetivos
+
+- Aprimorar conhecimentos em Backend
+- Construir APIs robustas
+- Estudar Arquitetura de Software
+- Contribuir com projetos Open Source
+
+---
+
+
+- LinkedIn: *(adicione depois)*
+- Email: *(se desejar)*
