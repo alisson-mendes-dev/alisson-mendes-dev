@@ -32,6 +32,3 @@ Blog desenvolvido utilizando Ruby + Sinatra + MongoDB.
 
 ---
 
-
-- LinkedIn: *(adicione depois)*
-- Email: *(se desejar)*
