@@ -22,6 +22,7 @@ Sou um desenvolvedor Backend em formação, apaixonado por entender como as tecn
 ### progressoRubyBlog
 
 Blog desenvolvido utilizando Ruby + Sinatra + MongoDB.
+Criado para registrar insights, alguma idéia de algo que estou estudando e alguns projetos...
 
 ## 📚 Objetivos
 
