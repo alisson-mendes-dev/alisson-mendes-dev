@@ -1,33 +1,37 @@
-<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; color: #d1d5db; max-width: 800px; margin: auto;">
 
-  <h1 style="color: #7C3AED; text-align: center;">Alisson Mendes</h1>
-  <h2 style="text-align: center; color: #555;">☕ Backend Developer</h2>
-
-  <div style="text-align: center; margin: 20px 0;">
-    <a href="https://linkedin.com/in/alisson-mendes-dev" style="margin: 0 10px; color: #0077B5; text-decoration: none; font-weight: bold;">LinkedIn</a> | 
-    <a href="https://github.com/alisson-mendes-dev" style="margin: 0 10px; color: #333; text-decoration: none; font-weight: bold;">GitHub</a>
+  <!-- Cabeçalho Minimalista -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #a78bfa; margin-bottom: 5px;">Alisson Mendes</h1>
+    <p style="color: #9ca3af; font-size: 1.1em; letter-spacing: 1px;">BACKEND DEVELOPER • RUBY • SINATRA</p>
+    <div style="margin-top: 15px;">
+      <a href="https://linkedin.com/in/alisson-mendes-dev" style="color: #818cf8; text-decoration: none; margin: 0 10px;">LinkedIn</a> • 
+      <a href="https://github.com/alisson-mendes-dev" style="color: #818cf8; text-decoration: none; margin: 0 10px;">GitHub</a>
+    </div>
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
+  <!-- Bio Compacta -->
+  <div style="border-left: 3px solid #7c3aed; padding-left: 20px; margin-bottom: 30px;">
+    <h3 style="color: #f3f4f6; margin-top: 0;">Sobre mim</h3>
+    <p style="margin: 0;">Desenvolvedor Backend focado em sistemas robustos e bem estruturados. Apaixonado por entender o fluxo de dados e a arquitetura por trás de cada linha de código.</p>
+  </div>
 
-  <h2 style="color: #7C3AED;">🌟 Sobre mim</h2>
-  <p>
-    Sou um desenvolvedor focado em <strong>Backend</strong>, apaixonado por construir software simples, bem estruturado e entender como os sistemas funcionam por baixo dos panos.
-  </p>
-
-  <h2 style="color: #7C3AED;">📚 Atualmente estudando</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>📖 Compiladores</li>
-    <li>💎 Ruby</li>
-    <li>🔀 Git</li>
-    <li>🏛️ Arquitetura de Software</li>
-    <li>🚀 Sinatra</li>
-  </ul>
-
-  <h2 style="color: #7C3AED;">🚀 Meus Projetos</h2>
-  <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px;">
-    <p><strong>Blog API</strong>: API REST construída com Ruby, Sinatra e MongoDB.</p>
-    <p><strong>Sistema de Controle de Estoque</strong>: Gestão de estoque, curva ABC e reposição inteligente.</p>
+  <!-- Grid de Conhecimento (Layout de duas colunas) -->
+  <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+      <h3 style="color: #a78bfa;">🛠 Tech Stack & Estudos</h3>
+      <p><strong>Linguagens:</strong> Ruby, C#</p>
+      <p><strong>Frameworks:</strong> Sinatra, .NET MAUI, ASP.NET Core</p>
+      <p><strong>Conceitos:</strong> Arquitetura de Software, Compiladores, Git</p>
+    </div>
+    
+    <div style="flex: 1; min-width: 300px;">
+      <h3 style="color: #a78bfa;">🚀 Projetos Recentes</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li style="margin-bottom: 10px;"><strong>• Blog API:</strong> RESTful API com MongoDB.</li>
+        <li style="margin-bottom: 10px;"><strong>• Silk Control:</strong> Gestão de estoque e workflow.</li>
+      </ul>
+    </div>
   </div>
 
 </div>
