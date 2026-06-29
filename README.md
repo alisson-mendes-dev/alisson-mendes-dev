@@ -7,8 +7,6 @@
 <p style="margin-top: -20px;">
   <a href="mailto:alissonmendesw3@gmail.com"><img src="https://img.shields.io/badge/GMAIL-800000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/alisson-mendes-dev/"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/RUBY-800000?style=for-the-badge&logo=ruby&logoColor=white" /></a>
-  <a href="https://sinatrarb.com/"><img src="https://img.shields.io/badge/SINATRA-000000?style=for-the-badge&logo=sinatra&logoColor=white" /></a>
 </p>
 
 <br>
