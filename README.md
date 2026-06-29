@@ -1,7 +1,7 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
   <h1 style="color: #7C3AED; text-align: center;">Alisson Mendes</h1>
-  <h2 style="text-align: center; color: #555;">☕ Backend Developer Specialist</h2>
+  <h2 style="text-align: center; color: #555;">☕ Backend Developer</h2>
 
   <div style="text-align: center; margin: 20px 0;">
     <a href="https://linkedin.com/in/alisson-mendes-dev" style="margin: 0 10px; color: #0077B5; text-decoration: none; font-weight: bold;">LinkedIn</a> | 
