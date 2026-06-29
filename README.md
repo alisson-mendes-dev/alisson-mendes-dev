@@ -13,7 +13,7 @@ Sou um desenvolvedor Backend em formação, apaixonado por entender como as tecn
 - Banco de Dados
 - REST APIs
 - Git
-- Docker
+- Compiladores
 
 ---
 
