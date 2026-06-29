@@ -1,74 +1,58 @@
+<div align="center" style="background-color: #0d0d0d; padding: 20px; border-radius: 15px; border: 1px solid #333;">
 
-<div align="center">
+<!-- Banner Personalizado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:8B0000,100:000000&text=ALISSON%20MENDES&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20•%20Ruby%20•%20Software%20Architecture&descAlignY=60&descSize=18"/>
 
-# ALISSON MENDES
-### <samp>Back-End Developer</samp>
+<!-- Botões de Contato -->
+<p style="margin-top: -20px;">
+  <a href="mailto:alissonmendesw3@gmail.com"><img src="https://img.shields.io/badge/GMAIL-800000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/alisson-mendes-dev/"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/RUBY-800000?style=for-the-badge&logo=ruby&logoColor=white" /></a>
+  <a href="https://sinatrarb.com/"><img src="https://img.shields.io/badge/SINATRA-000000?style=for-the-badge&logo=sinatra&logoColor=white" /></a>
+</p>
 
-<!-- Banner dinâmico de tecnologia -->
-
-## 💎 Linguagens e Tecnologias
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Sinatra-FF0000?style=for-the-badge&logo=sinatra&logoColor=white" alt="Sinatra" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-</div>
-
----
-
-## 🧠 Foco nos Estudos
-
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
-
-  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
-    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="40" height="40" alt="Compiladores"></div>
-    <h3 align="center" style="color: #333; margin-top: 10px;">Compiladores</h3>
-    <p align="center" style="color: #666; font-size: 14px;">Entendendo a transformação do código em instruções de máquina.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
-    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/2891/2891361.png" width="40" height="40" alt="Banco de Dados"></div>
-    <h3 align="center" style="color: #333; margin-top: 10px;">Banco de Dados</h3>
-    <p align="center" style="color: #666; font-size: 14px;">Modelagem, otimização de consultas e escalabilidade.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
-    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/2544/2544078.png" width="40" height="40" alt="API Rest"></div>
-    <h3 align="center" style="color: #333; margin-top: 10px;">API Rest</h3>
-    <p align="center" style="color: #666; font-size: 14px;">Arquitetura de microsserviços e integração segura.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
-    <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby & Sinatra"></div>
-    <h3 align="center" style="color: #333; margin-top: 10px;">Ruby & Sinatra</h3>
-    <p align="center" style="color: #666; font-size: 14px;">Aperfeiçoando a stack principal para desenvolvimento ágil.</p>
-  </div>
-
-</div>
+<br>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💎 Linguagens e Frameworks
 
-| Projeto | Descrição |
-| :--- | :--- |
-| **[ProgressBlog](https://github.com/alisson-mendes-dev/ProgressBlog)** | Meu diário técnico e laboratório de ideias. |
-| **[Controle de Estoque](https://github.com/alisson-mendes-dev/controle-de-estoque)** | Sistema interno desenvolvido para otimizar a operação da minha empresa. |
-
----
-
-<div align="center">
-
-## 📬 Contato
-
-<a href="https://github.com/alisson-mendes-dev/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:alissonmendesw3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Linguagens**
+<br>
+<img src="https://img.shields.io/badge/Ruby-800000?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br><br>
 
+**Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&logo=sinatra&logoColor=white" />
+
+---
+
+## 📂 Meus Projetos
+
+<table align="center">
+  <tr>
+    <td align="center" width="300" style="border: none;">
+      <strong>ProgressBlog</strong> 📔<br>
+      <sub>Documentação de ideias e estudos.</sub>
+    </td>
+    <td align="center" width="300" style="border: none;">
+      <strong>Controle de Estoque</strong> 🏭<br>
+      <sub>Gestão de pedidos</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Estou Estudando
+
+<p>
+  <img src="https://img.shields.io/badge/Compiladores-333333?style=for-the-badge&logo=compiler" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-333333?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/API%20REST-333333?style=for-the-badge" />
+</p>
 
 </div>
