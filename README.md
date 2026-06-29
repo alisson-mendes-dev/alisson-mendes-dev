@@ -1,37 +1,74 @@
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.5; color: #d1d5db; max-width: 800px; margin: auto;">
 
-  <!-- Cabeçalho Minimalista -->
-  <div style="text-align: center; margin-bottom: 30px;">
-    <h1 style="color: #a78bfa; margin-bottom: 5px;">Alisson Mendes</h1>
-    <p style="color: #9ca3af; font-size: 1.1em; letter-spacing: 1px;">BACKEND DEVELOPER • RUBY • SINATRA</p>
-    <div style="margin-top: 15px;">
-      <a href="https://linkedin.com/in/alisson-mendes-dev" style="color: #818cf8; text-decoration: none; margin: 0 10px;">LinkedIn</a> • 
-      <a href="https://github.com/alisson-mendes-dev" style="color: #818cf8; text-decoration: none; margin: 0 10px;">GitHub</a>
-    </div>
+<div align="center">
+
+# ALISSON MENDES
+### <samp>Back-End Developer</samp>
+
+<!-- Banner dinâmico de tecnologia -->
+
+## 💎 Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Sinatra-FF0000?style=for-the-badge&logo=sinatra&logoColor=white" alt="Sinatra" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+</div>
+
+---
+
+## 🧠 Foco nos Estudos
+
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
+
+  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
+    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="40" height="40" alt="Compiladores"></div>
+    <h3 align="center" style="color: #333; margin-top: 10px;">Compiladores</h3>
+    <p align="center" style="color: #666; font-size: 14px;">Entendendo a transformação do código em instruções de máquina.</p>
   </div>
 
-  <!-- Bio Compacta -->
-  <div style="border-left: 3px solid #7c3aed; padding-left: 20px; margin-bottom: 30px;">
-    <h3 style="color: #f3f4f6; margin-top: 0;">Sobre mim</h3>
-    <p style="margin: 0;">Desenvolvedor Backend focado em sistemas robustos e bem estruturados. Apaixonado por entender o fluxo de dados e a arquitetura por trás de cada linha de código.</p>
+  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
+    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/2891/2891361.png" width="40" height="40" alt="Banco de Dados"></div>
+    <h3 align="center" style="color: #333; margin-top: 10px;">Banco de Dados</h3>
+    <p align="center" style="color: #666; font-size: 14px;">Modelagem, otimização de consultas e escalabilidade.</p>
   </div>
 
-  <!-- Grid de Conhecimento (Layout de duas colunas) -->
-  <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 300px;">
-      <h3 style="color: #a78bfa;">🛠 Tech Stack & Estudos</h3>
-      <p><strong>Linguagens:</strong> Ruby, C#</p>
-      <p><strong>Frameworks:</strong> Sinatra, .NET MAUI, ASP.NET Core</p>
-      <p><strong>Conceitos:</strong> Arquitetura de Software, Compiladores, Git</p>
-    </div>
-    
-    <div style="flex: 1; min-width: 300px;">
-      <h3 style="color: #a78bfa;">🚀 Projetos Recentes</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li style="margin-bottom: 10px;"><strong>• Blog API:</strong> RESTful API com MongoDB.</li>
-        <li style="margin-bottom: 10px;"><strong>• Silk Control:</strong> Gestão de estoque e workflow.</li>
-      </ul>
-    </div>
+  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
+    <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/2544/2544078.png" width="40" height="40" alt="API Rest"></div>
+    <h3 align="center" style="color: #333; margin-top: 10px;">API Rest</h3>
+    <p align="center" style="color: #666; font-size: 14px;">Arquitetura de microsserviços e integração segura.</p>
   </div>
+
+  <div style="flex: 1; min-width: 200px; padding: 20px; border: 2px solid #CC342D; border-radius: 10px; background-color: #f8f9fa;">
+    <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby & Sinatra"></div>
+    <h3 align="center" style="color: #333; margin-top: 10px;">Ruby & Sinatra</h3>
+    <p align="center" style="color: #666; font-size: 14px;">Aperfeiçoando a stack principal para desenvolvimento ágil.</p>
+  </div>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição |
+| :--- | :--- |
+| **[ProgressBlog](https://github.com/alisson-mendes-dev/ProgressBlog)** | Meu diário técnico e laboratório de ideias. |
+| **[Controle de Estoque](https://github.com/alisson-mendes-dev/controle-de-estoque)** | Sistema interno desenvolvido para otimizar a operação da minha empresa. |
+
+---
+
+<div align="center">
+
+## 📬 Contato
+
+<a href="https://github.com/alisson-mendes-dev/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:alissonmendesw3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
 
 </div>
